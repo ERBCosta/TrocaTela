@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrocaTela</string>
+    <string name="description">Criando eventos de touch\n para treinar a lógica de chamada\n para novas telas</string>
+    <string name="texto_btn1">Ir para tela 1</string>
+    <string name="texto_btn2">Ir para tela 2</string>
+    <string name="texto_btn3">Ir para tela 3</string>
+    <string name="texto_btn4">Ir para tela 4</string>
+    <string name="texto_btn5">Ir para tela 5</string>
+    <string name="texto_btn6">Ir para tela 6</string>
+    <string name="texto_boasVindas">Seja bem vindo a Tela 1! O que quer fazer agora?</string>
+    <string name="Tela1paraTelaPrincipal">Voltar para Tela Inicial</string>
+</resources>
